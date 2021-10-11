@@ -1,0 +1,17 @@
+.search-container {
+    position: relative;
+    ul{
+        text-align: center;
+        position: absolute;
+        top: 2.2rem;
+        left: 0;
+        right: 0;
+        box-shadow: 0 20px 5px lightgray;
+        li{
+            background-color: #fff;  
+            border-bottom: 1px solid lightgray;  
+            list-style: none;
+            padding: 1rem;
+        }
+    }
+}
